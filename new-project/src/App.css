@@ -1,0 +1,22 @@
+.main {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: url(./images/bgimg.jpg);
+  background-size: cover;
+  }
+  .LoginForm {
+    background-color: rgba(255, 255, 255, 0.33);
+    box-shadow: 0px 8px 32px 0 rgba(0, 0, 255, 0.33);
+    backdrop-filter: blur(3px);
+    padding: 16px 16px 16px 16px;
+    border-radius: 16px;
+  }
+  .welcome {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+  }
