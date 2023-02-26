@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginauth/static/css/main.0dd60366.css",
+    "main.js": "/loginauth/static/js/main.ce085c27.js",
+    "static/media/bgimg.jpg": "/loginauth/static/media/bgimg.49c30a334ddb02fcc506.jpg",
+    "index.html": "/loginauth/index.html",
+    "main.0dd60366.css.map": "/loginauth/static/css/main.0dd60366.css.map",
+    "main.ce085c27.js.map": "/loginauth/static/js/main.ce085c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd60366.css",
+    "static/js/main.ce085c27.js"
+  ]
+}
